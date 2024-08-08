@@ -1,5 +1,11 @@
 {
   "voiceactors": [
+        {
+      "avatar": "https://raw.githubusercontent.com/AlexViktor/WuWaRu/main/voiceactorava/5.jpg",
+      "link": "https://t.me/huerman",
+      "name": "huerman",
+      "description": "Озвучка Чиси и Инь Линь"
+    },
     {
       "avatar": "https://raw.githubusercontent.com/AlexViktor/WuWaRu/main/voiceactorava/1.jpg",
       "link": "https://t.me/asmrdiel",
